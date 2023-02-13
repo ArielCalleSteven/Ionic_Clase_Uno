@@ -1,0 +1,13 @@
+p{
+  color: brown;
+}
+
+.di{
+    text-align: center;
+}
+
+
+ion-card-header.ios {
+  display: flex;
+  flex-flow: column-reverse;
+}
